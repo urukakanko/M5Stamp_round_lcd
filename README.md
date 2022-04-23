@@ -64,7 +64,7 @@ M5Stamp とLCD信号とのピンアサインは以下となります。
 
 # 使用例
 
-<img src="use0.jpg" style="zoom: 50%;" />
+<img src="use0.jpg" style="zoom: 20%;" />
 
 スマートウォッチはもちろん、アイコン表示バッチ、カードフォルダーの代わりなど
 
