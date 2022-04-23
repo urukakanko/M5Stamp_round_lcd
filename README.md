@@ -64,13 +64,13 @@ M5Stamp とLCD信号とのピンアサインは以下となります。
 
 # 使用例
 
-<img src="use0.jpg" style="zoom: 20%;" />
+<img src="use0.jpg" style="zoom: 10%;" />
 
 スマートウォッチはもちろん、アイコン表示バッチ、カードフォルダーの代わりなど
 
 
 
-<img src="use1.jpg" style="zoom:50%;" />
+<img src="use1.jpg" style="zoom:10%;" />
 
 ロボットに顔写真を表示すると、とても味のある雰囲気になります
 
