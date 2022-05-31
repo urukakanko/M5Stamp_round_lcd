@@ -95,24 +95,26 @@ https://youtu.be/kj006jx1wdU
 # 使用例
 
 
+スマートウォッチはもちろん、アイコン表示でカードフォルダー代わり
 
 <img src="use0.jpg" style="zoom: 50%;" />
 
 
 
-スマートウォッチはもちろん、アイコン表示でカードフォルダー代わり
 
 
-
-<img src="use1.jpg" style="zoom:50%;" />
 
 ロボットに顔写真を表示すると、とても味のある雰囲気に・・・
 
+<img src="use1.jpg" style="zoom:50%;" />
 
+
+
+
+画像が動くバッジ
 
 ![](nafuda.jpg)
 
-画像が動くバッジ
 
 
 
