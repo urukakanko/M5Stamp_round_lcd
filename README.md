@@ -74,7 +74,7 @@ M5StampのArduino IDEへのインストールは、以下サイトを参考下�
 
 https://docs.m5stack.com/en/quick_start/m5core/arduino
 
-LCDドライバーについてはlovyan様のLovyanGFXにて動作確認をしています
+グラフィックライブラリについてはlovyan様のLovyanGFXにて動作確認をしています
 
 https://github.com/lovyan03/LovyanGFX
 
