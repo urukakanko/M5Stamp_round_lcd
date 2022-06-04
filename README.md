@@ -120,6 +120,7 @@ https://youtu.be/kj006jx1wdU
 
 # 製作者
 
+ウルカテクノロジー
 Hiroyuki Sunagawa
 
-https://www.facebook.com/hiroyuki.sunagawa.5
+https://www.facebook.com/URUKA-Technologies-105478404379918
