@@ -105,8 +105,7 @@ https://youtu.be/kj006jx1wdU
 
 
 
-AMG8833と組合わせると温度虫眼鏡も作れます
-動画
+AMG8833と組合わせると温度虫眼鏡も作れます　動画はこちら
 https://youtu.be/yjvwYW8tv_Q
 <img src="use1.jpg" style="zoom:50%;" />
 
