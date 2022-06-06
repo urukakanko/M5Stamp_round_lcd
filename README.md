@@ -108,7 +108,8 @@ https://youtu.be/kj006jx1wdU
 AMG8833と組合わせると温度虫眼鏡も作れます
 
 <img src="use1.jpg" style="zoom:50%;" />
-
+動画
+https://youtu.be/yjvwYW8tv_Q
 
 
 
