@@ -126,7 +126,9 @@ https://youtu.be/yjvwYW8tv_Q
 
 
 # スイッチサイエンスマーケットプレイスで販売しています
+M5Stamp実装版
 https://www.switch-science.com/catalog/8098/
+M5Stamp未実装版
 https://www.switch-science.com/catalog/8099/
 
 
