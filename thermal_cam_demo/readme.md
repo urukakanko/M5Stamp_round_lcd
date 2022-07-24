@@ -64,7 +64,7 @@ Arduino IDEでプログラミングします。
 
 修正後のソースコードは以下に保存しています。
 
-[]()
+https://github.com/urukakanko/M5Stamp_round_lcd/tree/main/thermal_cam_demo/M5stamp_thermal_cam_demo/M5stamp_thermal_cam_demo
 
 ### ソースコードのポイント説明
 
