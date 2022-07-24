@@ -114,7 +114,7 @@ https://youtu.be/yjvwYW8tv_Q
 <img src="use1.jpg" style="zoom:50%;" />
 
 
-作り方をまとめました　とても便利ですので興味がある方はご覧ください
+AMG8833サーマルカメラの作り方をまとめました　とても便利ですので興味がある方はご覧ください
 
 https://github.com/urukakanko/M5Stamp_round_lcd/tree/main/thermal_cam_demo
 
