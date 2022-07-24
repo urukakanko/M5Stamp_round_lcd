@@ -60,7 +60,7 @@ Arduino IDEでプログラミングします。
 
 ただし、使用する液晶が異なる事、表示位置のオフセット、補完内容の変更などがあるので、修正が必要となります。
 
-![](D:\Google_drive\scマーケットプレイス\thermal_cam_demo\interpolate.png)
+![](interpolate.png)
 
 修正後のソースコードは以下に保存しています。
 
