@@ -74,11 +74,11 @@ M5Stamp とLCDの制御信号とのピン接続は以下となります。
 
 # 使用するツールやライブラリ
 
-M5StampのArduino IDEへのインストールは、以下サイトを参考下さい
+M5StampのArduino IDEへのインストールは、以下サイトを参考下さい。
 
 https://docs.m5stack.com/en/quick_start/m5core/arduino
 
-グラフィックライブラリについてはlovyan様のLovyanGFXにて動作確認をしています
+グラフィックライブラリについてはlovyan様のLovyanGFXにて動作確認をしています。
 
 https://github.com/lovyan03/LovyanGFX
 
@@ -114,7 +114,8 @@ https://youtu.be/yjvwYW8tv_Q
 <img src="use1.jpg" style="zoom:50%;" />
 
 
-
+作り方を以下にまとめました　とても便利ですので興味がある方はご覧ください
+https://github.com/urukakanko/M5Stamp_round_lcd/tree/main/thermal_cam_demo
 
 
 
