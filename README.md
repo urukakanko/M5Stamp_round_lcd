@@ -96,6 +96,29 @@ https://github.com/lovyan03/LovyanGFX
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
 
+# そーたメイ氏の「つくるっち」に対応して頂きました
+
+http://sohta02.web.fc2.com/familyday.html
+
+事前に以下ツールでM5Stampラウンド液晶モジュールにファームウェアを書込んでください
+
+https://sohta02.sakura.ne.jp/release/burnESP.20220930.zip
+
+つくるっち画面にて拡張機能を追加」から「M5Series」を追加してください
+
+https://sohta02.sakura.ne.jp/tukurutch/
+
+サンプルプログラムは以下です
+
+
+以下の様に動かす事ができます
+
+![](tukuruch.jpg)
+
+設定については以下を参考にしてください
+
+http://sohta02.web.fc2.com/familyday_app3.html#setup_esp32
+
 
 
 
