@@ -89,7 +89,7 @@ M5StampのArduino IDEへのインストールは、以下サイトを参考下�
 
 https://docs.m5stack.com/en/quick_start/m5core/arduino
 
-グラフィックライブラリについてはlovyan様のLovyanGFXにて動作確認をしています。
+グラフィックライブラリについてはlovyanさまのLovyanGFXにて動作確認をしています。
 
 https://github.com/lovyan03/LovyanGFX
 
@@ -97,7 +97,7 @@ https://github.com/lovyan03/LovyanGFX
 
 
 
-# そーたメイさまの「つくるっち」に対応して頂きました
+# そーたメイさま「つくるっち」に対応して頂きました
 
 http://sohta02.web.fc2.com/familyday.html
 
@@ -105,7 +105,7 @@ http://sohta02.web.fc2.com/familyday.html
 
 https://sohta02.sakura.ne.jp/release/burnESP.20220930.zip
 
-Cromeブラウザで以下つくるっち画面を開き「拡張機能を追加」から「M5Series」を追加してください
+Chromeブラウザで以下つくるっち画面を開き「拡張機能を追加」から「M5Series」を追加してください
 
 https://sohta02.sakura.ne.jp/tukurutch/
 
@@ -113,11 +113,11 @@ https://sohta02.sakura.ne.jp/tukurutch/
 
 https://github.com/urukakanko/M5Stamp_round_lcd/blob/main/M5Stamp%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB_%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3.sb3
 
-以下の様に動かす事ができます
+USB接続で以下の様に動かす事ができます
 
 ![](tukuruch.jpg)
 
-WiFiでの動作も可能です。詳細設定についてはそーたメイさまのサイトを参考にしてください
+もちろんWiFiでの動作も可能です。詳細設定についてはそーたメイさまのサイトを参考にしてください
 
 http://sohta02.web.fc2.com/familyday_app3.html#setup_esp32
 
