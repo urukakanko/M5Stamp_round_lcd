@@ -16,7 +16,7 @@ M5Stampを使用して1.28インチ240ｘ240ドットの円形液晶を駆動す
 本品は基本的な電子回路の仕組みを理解した方を対象とした、電子部品がむき出しの半完成キットです。
 電子部品は電源電圧や極性を間違えたり、部品を破損させたり部品端子をショートさせた場合、発熱・発煙・発火に至る場合もあります。
 間違った使い方をすると危険である事を理解された方のみご使用ください。
-趣味の電子工作向けに製作しておりますので、製品への組込みや日常生活へ組込んでのご使用はお止め下さい。
+趣味の電子工作向けに製作しておりますので、製品への組込みや日常生活へ組込んでのご使用はお控え下さい。
 
 
 
@@ -96,6 +96,7 @@ https://github.com/lovyan03/LovyanGFX
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
 
+
 # そーたメイさまの「つくるっち」に対応して頂きました
 
 http://sohta02.web.fc2.com/familyday.html
@@ -104,7 +105,7 @@ http://sohta02.web.fc2.com/familyday.html
 
 https://sohta02.sakura.ne.jp/release/burnESP.20220930.zip
 
-つくるっち画面にて拡張機能を追加」から「M5Series」を追加してください
+Cromeブラウザで以下つくるっち画面を開き「拡張機能を追加」から「M5Series」を追加してください
 
 https://sohta02.sakura.ne.jp/tukurutch/
 
@@ -122,11 +123,9 @@ http://sohta02.web.fc2.com/familyday_app3.html#setup_esp32
 
 
 
-
 # LCD表示動画
 
 https://youtu.be/kj006jx1wdU
-
 
 
 
