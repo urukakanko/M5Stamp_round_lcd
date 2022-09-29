@@ -96,7 +96,7 @@ https://github.com/lovyan03/LovyanGFX
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
 
-# そーたメイ氏の「つくるっち」に対応して頂きました
+# そーたメイさまの「つくるっち」に対応して頂きました
 
 http://sohta02.web.fc2.com/familyday.html
 
@@ -110,12 +110,13 @@ https://sohta02.sakura.ne.jp/tukurutch/
 
 サンプルプログラムは以下です
 
+https://github.com/urukakanko/M5Stamp_round_lcd/blob/main/M5Stamp%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB_%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3.sb3
 
 以下の様に動かす事ができます
 
 ![](tukuruch.jpg)
 
-設定については以下を参考にしてください
+WiFiでの動作も可能です。詳細設定についてはそーたメイさまのサイトを参考にしてください
 
 http://sohta02.web.fc2.com/familyday_app3.html#setup_esp32
 
