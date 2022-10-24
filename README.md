@@ -130,6 +130,9 @@ http://sohta02.web.fc2.com/familyday_app3.html#setup_esp32
 https://youtu.be/kj006jx1wdU
 
 
+# 製作過程動画
+
+https://youtu.be/ezlkv9BLLXo
 
 
 # 使用例
