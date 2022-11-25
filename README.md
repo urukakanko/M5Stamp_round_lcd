@@ -29,6 +29,7 @@ M5Stampを使用して1.28インチ240ｘ240ドットの円形液晶を駆動す
 
 
 以下に回路図を示します　現在最新は基板Ver1.2です
+
 　基板Ver1.0の回路図などはこちら⇒
 https://github.com/urukakanko/M5Stamp_round_lcd/tree/main/Ver1.0
 
